@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 09cefc4e-6072-4db5-8ca8-77718ee37247
+
+localResources:
+  specs:
+    - ..\GymSystemFlutterG03\obj\Debug\net9.0\EndpointInfo\GymSystemFlutterG03.json
