@@ -1,0 +1,27 @@
+# Visual Studio / .NET Core
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+appsettings.Development.json
+
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/flutter project/gym_app/build/
+/flutter project/gym_app/.dart_tool/
+/flutter project/gym_app/android/.gradle/
+/flutter project/gym_app/ios/.symlinks/
+/flutter project/gym_app/ios/Pods/
+
+# Mac / Windows OS files
+.DS_Store
+Thumbs.db
